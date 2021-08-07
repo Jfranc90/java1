@@ -1,0 +1,2 @@
+For homework, study and look over the notes for DayOne.java. If you have any questions on anything related to the lesson, read the ReadMe txt in the main repo to contact me.
+Also, look over the 2nd lesson to prepare for it.
