@@ -1,0 +1,9 @@
+/** Ask the user to input in data of the following data types, then tell a short story with 
+         * them
+         * 
+         * - String x2
+         * - double x2
+         * - int x2
+         * - boolean x2 -> to convert from String to Boolean --> Boolean.parseBoolean(string);
+         * 
+         */
