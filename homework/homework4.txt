@@ -1,0 +1,56 @@
+Write code for a program that prompts the user for a month and day and prints out whether
+         * it is one of the following holidays:
+         * - New Years (Jan 1)
+         * - Independence Day (July 4)
+         * - Veterans (Nov 11)
+         * - Halloween (Oct 30)
+         * - Any holiday is fine, try to add atleast 4
+         
+Write a program that reads three numbers and print "increasing" if they are in increasing order
+         * 'decreasing' if they are in decreasing order, and "neither" other-wise. Here "increasing" mean
+         * "strictly" increasing. 3 5 11 -> increasing 3 4 4 -> not increasing
+
+/** Find the errors in the code below:
+         * if x > 0 then system.out.println(x);
+
+
+
+                if (1 + x > Math.pow(x, Math.sqrt(2)) {
+                    y = y + x; 
+                    }
+                    
+                    
+                    
+                if (x = 1) { 
+                    y++; 
+                }
+    
+
+
+                x = in.nextInt();
+                if (in.hasNextInt()){
+                    sum = sum + x;
+                }
+                else
+                {
+                    System.out.println("Bad input for x");
+                }
+
+
+
+                String letterGrade = "F";
+                int grade = 95;
+                if (grade >= 90) { 
+                    letterGrade = "A"; 
+                }
+                if (grade >= 80) { 
+                    letterGrade = "B"; 
+                }
+                if (grade >= 70) {
+                    letterGrade = "C"; 
+                }
+                if (grade >= 60) {
+                    letterGrade = "D"; 
+                }
+
+        */
