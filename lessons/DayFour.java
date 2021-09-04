@@ -100,7 +100,7 @@ public class DayFour
         //     }
         //     */
 
-        // // Tiancheng -> Write a program that reads an integer and prints  whether its negative, zero, or positive
+        // Tiancheng -> Write a program that reads an integer and prints  whether its negative, zero, or positive
         // int a = 1;
         // if(a>0){
         //     System.out.println("it's positive");
@@ -172,7 +172,7 @@ public class DayFour
          * 'decreasing' if they are in decreasing order, and "neither" other-wise. Here "increasing" mean
          * "strictly" increasing. 3 5 11 -> increasing 3 4 4 -> not increasing
         */
-
+        
         /** Find the errors in the code below:
          * if x > 0 then system.out.println(x);
 
