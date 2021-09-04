@@ -1,0 +1,41 @@
+//Print out the follow pattern using loops NIKCY'S HW
+        /**[]
+         * [][]
+         * [][][]
+         * [][][][]
+         * [][][][][]
+         */
+         for (int rows = 0; rows < 5; rows++)
+         {
+             for (int cols = 0; cols <= rows; cols++)
+            {
+                System.out.print("[]");
+            }
+            System.out.println();
+         }
+        //rows = 0 cols = 0
+        // instead of cols < 5; try cols <= rows
+        // rows = 0 cols = 0
+        // []
+        // rows = 1 cols = 1
+        // [][]
+        // rows = 2 cols = 2
+        // [][][]
+
+
+         // TIANCHENG's HW
+         /**[][][][][]
+          * [][][][]
+            [][][]
+            [][]
+            []
+         */
+         for (int row=0; row<=5; row++){
+             for (int col=5; col>=1; col--){
+                 System.out.print("[]");
+             }
+             System.out.println();
+         
+        }
+        //col = 5 row = 2
+        //col >= col - row = 3
